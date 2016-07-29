@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\vs_project\savepic\savepic\recoder.h(77): warning C4018: '<': signed/unsigned mismatch
+d:\vs_project\savepic\savepic\h264player.h(91): warning C4477: 'printf' : format string '%8ld' requires an argument of type 'long', but variadic argument 1 has type 'int64_t'
+  d:\vs_project\savepic\savepic\h264player.h(91): note: consider using '%lld' in the format string
+  d:\vs_project\savepic\savepic\h264player.h(91): note: consider using '%Id' in the format string
+  d:\vs_project\savepic\savepic\h264player.h(91): note: consider using '%I64d' in the format string
+  savepic.vcxproj -> D:\vs_project\savepic\x64\Debug\savepic.exe
